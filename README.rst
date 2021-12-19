@@ -3,7 +3,7 @@
 What is this?
 =================
 
-This is a conversion of Omni-Notes java version to python. It was created with the use `Tkinter`, a GUI toolkit, as well as `Pillow`, a Python Imaging Library (PIL).
+This is a conversion of Omni-Notes java version to python. It was created with the use _`Tkinter`_, a GUI toolkit, as well as _`Pillow`_, a Python Imaging Library (PIL).
 
 How to run this project?
 =================
@@ -14,7 +14,8 @@ Documentation
 ================
 
 Currently no documentation for this project.
-Access `Tkinter Documentation`.
+
+Access _`Tkinter Documentation`_.
 
 .. _`Tkinter`: https://tkdocs.com/
 .. _`Tkinter Documentation`: https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/tkinter.pdf
