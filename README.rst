@@ -34,7 +34,7 @@ The current state is very incomplete:
 
 \- Toolbar frontend incomplete w/ no backend
 
-Current State
+Future State
 ================
 
 For the future I hope to see the canvas note fully implemented, as well as the rest for that matter.
