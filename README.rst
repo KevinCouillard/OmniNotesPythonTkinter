@@ -17,6 +17,21 @@ Currently no documentation for this project.
 
 Access `Tkinter Documentation`_.
 
+Current State
+================
+
+The current state is very incomplete:
+
+\- Only the text note option works, yet adding multiple notes does not
+
+\- The canvas note option is full of errors that need addressing
+
+\- The sidebar is currently only on the main window
+
+\- Each screen opens a new window (maybe should clear and replace previous)
+
+\- Toolbar frontend incomplete w/ no backend
+
 .. _`Tkinter`: https://tkdocs.com/
 .. _`Tkinter Documentation`: https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/tkinter.pdf
 .. _`Pillow`: https://pillow.readthedocs.io/en/stable/
